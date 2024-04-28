@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      
+      <Mensaje mensaje = {mensaje}></Mensaje>
     </>
   )
 }
